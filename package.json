@@ -1,0 +1,14 @@
+{
+  "name": "myproshop",
+  "version": "1.0.0",
+  "description": "my shop in project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "khieu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
